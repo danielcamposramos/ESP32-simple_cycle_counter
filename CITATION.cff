@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: software
+title: "ESP32-simple_cycle_counter: an LED duty-cycle counter"
+abstract: "An ESP32 program that drives the on-board LED (GPIO 2) through rising and then falling duty cycles in software, counting the cycles. Written in C with ESP-IDF and FreeRTOS, in VS Code with PlatformIO, at the Universidade de Brasília with Prof. Jones Yudi Mori Alves da Silva."
+authors:
+  - family-names: "Ramos"
+    given-names: "Daniel Campos"
+    orcid: "https://orcid.org/0009-0001-4546-8673"
+    affiliation: "Universidade de Brasília"
+license: GPL-3.0-or-later
+repository-code: "https://github.com/danielcamposramos/ESP32-simple_cycle_counter"
+keywords:
+  - "ESP32"
+  - "ESP-IDF"
+  - "FreeRTOS"
+  - "embedded systems"
+  - "C"
+  - "GPIO"
+  - "PWM"
+  - "duty cycle"
+  - "LED"
